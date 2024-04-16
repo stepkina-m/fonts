@@ -1,0 +1,126 @@
+body{
+	background-color:#ABCDEF;
+	background-image:url(1.jpg);
+	background-size: 12%;
+	background-repeat: repeat-x;
+	margin-top: 5%
+}
+div{
+    margin-left: 15%;
+}
+.m{
+	font-family: Times;
+	font-size: 21px;
+	color: black;
+	font-style: italic;
+	font-variant: small-caps;
+	font-weight: medium;
+}
+.a{
+	font-family: Arial;
+	font-size: 23px;
+	color: #00ff00;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: demi-light;
+}
+.s{
+	font-family: Sans-serif;
+	font-size: 19px;
+	color: #ffff00;
+	font-style: oblique;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+.k{
+	font-family: Tahoma;
+	font-size: 20px;
+	color: #ffffff;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: demi-bold;
+	margin-bottom: 3%;
+}
+.i{
+	word-spacing: 1em;
+	letter-spacing: normal;
+	text-transform: uppercase;
+	text-indent: 200px;
+	text-decoration: underline;
+	white-space: normal
+}
+.l{
+	word-spacing: normal;
+	letter-spacing: 2;
+	text-transform: capitalize;
+	text-indent: 200px;
+	white-space: pre
+}
+.o{
+	word-spacing: 2em;
+	letter-spacing: 3;
+	text-transform: uppercase;
+	text-indent: 200px;
+	white-space: nowrap
+
+}
+.n{
+	word-spacing: 3em;
+	letter-spacing: 4;
+	text-transform: lowercase;
+	text-indent: 200px;
+	white-space: pre
+}
+
+.border1{
+	margin-left: 15%;
+	margin-top: 3%;
+	margin-right: 50%;
+	margin-bottom: 3%;
+	border-top: 3px dashed white;
+	border-bottom: 3px dashed red;
+	border-left: 3px dashed blue;
+	border-right: 3px dashed violet;
+	padding-top: 30px;
+	padding-bottom: -10px;
+	text-align:left
+}
+.border2{
+	margin-top: 40px;
+	padding-bottom: -10px;
+	border-left: 6px solid pink;
+	border-right: 6px solid violet;
+	display: inline-block;
+	padding-left: 20 px;
+	padding-right: 20 px;
+}
+.dotted{
+	margin-left: 20%;
+	margin-top: 3%;
+	margin-right: 60%;
+	text-align:center;
+	border-style: dotted;
+	border-color: red;
+	border-width: 10px;
+
+}
+.solid{
+	margin-left: 40%;
+	margin-top: 3%;
+	margin-right: 40%;
+	text-align:center;
+	border-style: solid;
+	border-color: blue;
+	border-width: 10px;
+
+}
+.double{
+	margin-left: 60%;
+	margin-top: 3%;
+	margin-right: 20%;
+	text-align:center;
+	border-style: double;
+	border-color: white;
+	border-width: 10px;
+
+}
